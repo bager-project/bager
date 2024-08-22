@@ -20,3 +20,6 @@ target_link_libraries(bager pico_stdlib ${CMAKE_SOURCE_DIR}/lib/libbager_lib.a)
 
 # Create map/bin/hex file etc.
 pico_add_extra_outputs(bager)
+
+pico_enable_stdio_usb(bager 1)
+pico_enable_stdio_uart(bager 1)
