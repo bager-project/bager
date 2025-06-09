@@ -2,7 +2,7 @@
 Main repository containing AST decompiler and code getting executed on Raspberry Pi Pico.
 
 # B.A.G.E.R.
-B.A.G.E.R. (Basic Autonomous Ground Excavation Robot) is an excavator featuring full project documentation parser. We are keen to keep human operators to oversee computers work. We are using Raspberry Pi Pico with C & C++ combination.
+B.A.G.E.R. (Basic Autonomous Ground Excavation Robot) is an autonomous excavator robot featuring full project documentation parser. We are keen to keep human operators to oversee computers work. We are using Raspberry Pi Pico with C & C++ combination.
 
 ## Compile instructions
 - Install [Pico SDK](https://github.com/raspberrypi/pico-sdk) by cloning it.
